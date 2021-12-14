@@ -1,7 +1,4 @@
 // import './App.css';
-// "1a601ef7293f4e7a85c4e3de26d8bef4" from newsapi.org
-// "pub_2649beee2088e5a6b4ec26947606d4ff9400"
-// "homepage": "https://Ghulam-Hassnain.github.io/NewsFlash-React",
 import React, { useState } from 'react';
 import Navbar from "./components/Navbar";
 import News from "./components/News";
